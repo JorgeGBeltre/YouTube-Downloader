@@ -12,6 +12,10 @@ A simple Python script to download YouTube videos or audio using `yt-dlp`. Allow
 - [Code Structure](#code-structure)
 - [Known Limitations](#known-limitations)
 - [Possible Errors](#possible-errors)
+- [License](#license)
+- [Contact](#contact)
+- [Support](#support)
+
 
 ## Requirements
 
